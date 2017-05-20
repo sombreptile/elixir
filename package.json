@@ -40,7 +40,7 @@
     "gulp-sass": "^2.3.2",
     "gulp-shell": "^0.5.2",
     "gulp-sourcemaps": "^1.6.0",
-    "gulp-uglify": "^1.5.3",
+    "gulp-uglify": "^2.1.2",
     "gulp-util": "^3.0.7",
     "parse-filepath": "^1.0.1",
     "path": "^0.12.7",
